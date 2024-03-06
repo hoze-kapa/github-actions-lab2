@@ -19,7 +19,7 @@ jobs:
         
         exclude:
           - os: macos-latest
-            py-version: 3.8
+            py-version: 3.9
 
     steps:
     - name: Set up Python
